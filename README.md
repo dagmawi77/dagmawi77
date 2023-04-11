@@ -21,7 +21,7 @@ I'm a Software Engineer, System Adminstorator, and Full stack Developer who is c
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi77_icons=true&include_all_commits=true&hide_border=true" alt="Dagmawi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi77&langs_count=8&layout=compact&hide_border=true" alt="Dagmawi's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi77=true&include_all_commits=true&hide_border=true" alt="Dagmawi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi77&langs_count=8&layout=compact&hide_border=true" alt="Dagmawi's GitHub stats" /> |
 | ------------- | ------------- |
 
 <!---
