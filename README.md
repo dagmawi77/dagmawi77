@@ -14,15 +14,15 @@ I'm a Software Engineer, System Adminstorator, and Full stack Developer who is c
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud/DevOps Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing dagmawiletarik@gmail.com.
+---
+[![@m3g4tr0n's Holopin board](https://holopin.me/m3g4tr0n)](https://holopin.io/@m3g4tr0n)
+
 
 ---
-[![@dagmawi77's Holopin board](holopin.io/@dagmawi77)](holopin.io/@dagmawi77)
 
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi77=true&include_all_commits=true&hide_border=true" alt="Dagmawi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi77&langs_count=8&layout=compact&hide_border=true" alt="Dagmawi's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi77&show_icons=true&include_all_commits=true&hide_border=true" alt="Dagmawi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi77&langs_count=8&layout=compact&hide_border=true" alt="Dagmawi's GitHub stats" /> |
 | ------------- | ------------- |
+
 
 <!---
 dagmawi77/dagmawi77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
