@@ -11,8 +11,8 @@ I'm a Software Engineer, System Adminstorator, and Full stack Developer who is c
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxethiopia.com/) Class of 2022.
 - 🌱 I’m currently learning C, Linux,Python,Web development,Devops,Dart & Flutter.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud/DevOps Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 😊 I’m looking for help with open source projects,Team Development,freelancer and entry-level opportunities.
+- 💼 Current Job: System Administrator In Addis Ababa Water & Sewerage Autority.
 - 📫 You can [view my resume](#) and contact me by emailing dagmawiletarik@gmail.com.
 ---
 [![@m3g4tr0n's Holopin board](https://holopin.me/dagmawi77)](https://holopin.io/@dagmawi77)
