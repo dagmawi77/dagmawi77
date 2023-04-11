@@ -9,11 +9,11 @@ I'm a Software Engineer, Cloud Enthusiast, and Community Engineer who is current
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxethiopia.com/) Class of 2022.
 - 🌱 I’m currently learning C, Linux, JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud/DevOps Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing nwekeejioforscheller@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing dagmawiletarik@gmail.com.
 
 ---
 [![@m3g4tr0n's Holopin board](https://holopin.me/m3g4tr0n)](https://holopin.io/@m3g4tr0n)
@@ -21,7 +21,7 @@ I'm a Software Engineer, Cloud Enthusiast, and Community Engineer who is current
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi77_icons=true&include_all_commits=true&hide_border=true" alt="Onyeka's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyekachukwu-Nweke&langs_count=8&layout=compact&hide_border=true" alt="Onyeka's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawi77_icons=true&include_all_commits=true&hide_border=true" alt="Onyeka's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi77&langs_count=8&layout=compact&hide_border=true" alt="Dagmawi GitHub stats" /> |
 | ------------- | ------------- |
 
 <!---
