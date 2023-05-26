@@ -13,7 +13,19 @@
 <p align="center">counting of visitors to this page in this section started from MAY 26, 2023</p>
 
   <a href="https://info.flagcounter.com/OmYc"><img src="https://s11.flagcounter.com/count2/OmYc/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</div> -->	  
+</div> -->	 
+
+    
+<!-- START My Github Profile Trophy SECTION -->
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dagmawi77&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<!-- END My Github Profile Trophy SECTION -->
 
 I'm a Software Engineer, System Adminstorator, and Full stack Developer who is currently learning and building as a Software Engnnering student at [ALX](https://alxafrica.com). I'm passionate about sharing knowledge, documentation, web engineering, researching and others.
 
