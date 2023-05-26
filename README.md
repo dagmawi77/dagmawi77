@@ -29,12 +29,12 @@
 
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=dagmawi77&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=dagmawi77&show_icons=true&theme=dark&hide_title=true)](https://github.com/dagmawi77)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi77&show_icons=true&theme=dark&hide_title=true)](https://github.com/dagmawi77)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- &layout=compact -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dagmawi77&theme=radical&margin-w=40&margin-h=40)](https://github.com/dagmawi77)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dagmawi77&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END My Github Profile Trophy SECTION -->
