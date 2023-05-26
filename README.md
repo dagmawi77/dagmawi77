@@ -16,14 +16,7 @@
 </div> -->	 
 
     
-<!-- START My Github Profile Trophy SECTION -->
 
-
-<!-- &layout=compact -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dagmawi77&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END My Github Profile Trophy SECTION -->
 
 I'm a Software Engineer, System Adminstorator, and Full stack Developer who is currently learning and building as a Software Engnnering student at [ALX](https://alxafrica.com). I'm passionate about sharing knowledge, documentation, web engineering, researching and others.
@@ -44,6 +37,14 @@ I'm a Software Engineer, System Adminstorator, and Full stack Developer who is c
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
+<!-- START My Github Profile Trophy SECTION -->
+
+
+<!-- &layout=compact -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dagmawi77&theme=radical&margin-w=40&margin-h=40)](https://github.com/dagmawi77)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 
 <!-- START NEW SECTION -->
