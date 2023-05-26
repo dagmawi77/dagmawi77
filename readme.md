@@ -376,9 +376,7 @@ I'm a Software Engineer, System Adminstorator, and Full stack Developer who is c
 </p>
 	
 
-<p align="center">
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dagmawi77&theme=github-compact" align="center"/>
-</p>
+
 	
 <!-- <p>
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
