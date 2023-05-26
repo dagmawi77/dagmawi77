@@ -4,7 +4,7 @@
 
 <!-- START Visitor Count -->
 <div align="center">
-<h2 align="centre">Visitors Count</h2>  
+<h2 align="centre">Visitors From MAY 26 2023</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dagmawi77}/count.svg" /></p> 
 <br>
 </div>
@@ -19,17 +19,17 @@
 
 <!-- END My Github Profile Trophy SECTION -->
 
-I'm a Software Engineer, System Adminstorator, and Full stack Developer who is currently learning and building as a Software Engnnering student at [ALX](https://alxafrica.com). I'm passionate about sharing knowledge, documentation, web engineering, researching and others.
+I'm a  Computer Scientist,Software Engineer, System Adminstorator, and Full stack Developer who is currently learning and building as a Software Engnnering student at [ALX](https://alxafrica.com). I'm passionate about sharing knowledge, documentation,problem sloving,coding,web engineering, researching and others.
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Onyekachukwu-Nweke.Onyekachukwu-Nweke&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp;
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxethiopia.com/) Class of 2022.
-- 🌱 I’m currently learning C, Linux,Python,Web development,Devops,Dart & Flutter.
+- 💡 Fun fact: I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxethiopia.com/) Class of 2022 Cohort 9.I have many cerification on IT stuff .
+- 🌱 I am good in Dart,Flutter,devops,python,C,git and github,fullstack development.
 - 😊 I’m looking for help with open source projects,Team Development,freelancer and entry-level opportunities.
-- 💼 Current Job: System Administrator In Addis Ababa Water & Sewerage Autority.
+- 💼 Current Job: System Administrator In Addis Ababa Water & Sewerage Autority and Develop deferent Platform like mobile apps and websites. 
 - 📫 You can [view my resume](#) and contact me by emailing dagmawiletarik@gmail.com.
 - 
 ---
