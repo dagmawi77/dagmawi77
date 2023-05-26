@@ -17,20 +17,7 @@
 
     
 <!-- START My Github Profile Trophy SECTION -->
-<p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">My Github Profile Trophy</h2>
-</p>
 
-
-<!-- START NEW SECTION -->
-<p align="center">
- <h2 align="center">My Github Stats</h2>
-
-|My github statistics|Most used languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=dagmawi77&show_icons=true&theme=dark&hide_title=true)](https://github.com/dagmawi77)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi77&show_icons=true&theme=dark&hide_title=true)](https://github.com/dagmawi77)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- &layout=compact -->
 
@@ -51,7 +38,22 @@ I'm a Software Engineer, System Adminstorator, and Full stack Developer who is c
 - 😊 I’m looking for help with open source projects,Team Development,freelancer and entry-level opportunities.
 - 💼 Current Job: System Administrator In Addis Ababa Water & Sewerage Autority.
 - 📫 You can [view my resume](#) and contact me by emailing dagmawiletarik@gmail.com.
+- 
 ---
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+
+
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+|My github statistics|Most used languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=dagmawi77&show_icons=true&theme=dark&hide_title=true)](https://github.com/dagmawi77)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi77&show_icons=true&theme=dark&hide_title=true)](https://github.com/dagmawi77)|![dagmawi77](https://github-readme-streak-stats.herokuapp.com/?user=dagmawi77&theme=dark)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 [![@m3g4tr0n's Holopin board](https://holopin.me/dagmawi77)](https://holopin.io/@dagmawi77)
 
 
