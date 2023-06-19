@@ -374,8 +374,8 @@ I'm a  Computer Scientist,Software Engineer, System Adminstorator, and Full stac
 <p align="center">
  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dagmawi77&theme=monokai" align="center" /> -->
 
-	 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagmawi77&theme=darcula" align="center" /> 
 </p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagmawi77&theme=darcula" align="center" /> 
 	
 
 
