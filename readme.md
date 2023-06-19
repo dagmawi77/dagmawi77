@@ -376,8 +376,9 @@ I'm a  Computer Scientist,Software Engineer, System Adminstorator, and Full stac
 
 </p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagmawi77&theme=darcula" align="left" /> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dagmawi77&theme=darcula" align="center" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dagmawi77&theme=darcula" align="right" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dagmawi77&theme=darcula" align="right" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dagmawi77&theme=darcula" align="left" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dagmawi77&theme=darcula  align="right" /> 
 	
 
 
