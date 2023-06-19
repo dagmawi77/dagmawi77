@@ -372,7 +372,8 @@ I'm a  Computer Scientist,Software Engineer, System Adminstorator, and Full stac
  <h2 align="center">Contribution Graph</h2>
 	
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dagmawi77&theme=monokai" align="center" />
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dagmawi77&theme=monokai" align="center" /> -->
+	![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagmawi77&theme=darcula)
 </p>
 	
 
